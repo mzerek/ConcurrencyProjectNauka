@@ -1,0 +1,160 @@
+Main: Status of Thread 0 : NEWMain: Status of Thread 1 : NEWMain: Status of Thread 2 : NEWMain: Status of Thread 3 : NEWMain: Status of Thread 4 : NEWMain: Status of Thread 5 : NEWMain: Status of Thread 6 : NEWMain: Status of Thread 7 : NEWMain: Status of Thread 8 : NEWMain: Status of Thread 9 : NEWMain : Id 10 - Watek0
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 11 - Watek1
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 12 - Watek2
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 13 - Watek3
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 14 - Watek4
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 15 - Watek5
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 16 - Watek6
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 17 - Watek7
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 18 - Watek8
+Main : Priority: 10
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 19 - Watek9
+Main : Priority: 1
+Main : Old State: NEW
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 10 - Watek0
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 15 - Watek5
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 15 - Watek5
+Main : Priority: 1
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 19 - Watek9
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 19 - Watek9
+Main : Priority: 1
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 11 - Watek1
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 11 - Watek1
+Main : Priority: 1
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 17 - Watek7
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 17 - Watek7
+Main : Priority: 1
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 13 - Watek3
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 16 - Watek6
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 16 - Watek6
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 12 - Watek2
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 18 - Watek8
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 18 - Watek8
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 13 - Watek3
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 12 - Watek2
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 13 - Watek3
+Main : Priority: 1
+Main : Old State: RUNNABLE
+Main : New State: BLOCKED
+Main : ************************************
+Main : Id 14 - Watek4
+Main : Priority: 10
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************
+Main : Id 12 - Watek2
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 14 - Watek4
+Main : Priority: 10
+Main : Old State: RUNNABLE
+Main : New State: TERMINATED
+Main : ************************************
+Main : Id 13 - Watek3
+Main : Priority: 1
+Main : Old State: BLOCKED
+Main : New State: RUNNABLE
+Main : ************************************

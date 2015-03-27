@@ -17,15 +17,37 @@ public class CoffeeMachine extends Thread {
 					ie.printStackTrace();
 				}
 			}
-			
+
 			coffeeMade = "Coffe No. " + coffeeNumber++;
 			System.out.println("Coffee machine says: Made " + coffeeMade);
-			 // once coffee is ready, notify the waiter to pick it up
-            CoffeeMachine.lock.notifyAll();
-            System.out.println("Coffee machine: Notifying waiter to pick the coffee ");
+			// once coffee is ready, notify the waiter to pick it up
+			CoffeeMachine.lock.notifyAll();
+			System.out
+					.println("Coffee machine: Notifying waiter to pick the coffee ");
+
 		}
 	}
-	
-	
+
+	public void run() {
+
+		while (true) {
+
+			makeCoffee();
+			try {
+
+				System.out.println("Coffee machine: Making another coffee now");
+				// simulate the time taken to make a coffee by calling sleep
+				// method
+				Thread.sleep(10000);
+			} catch (InterruptedException ie) {
+
+				// its okay to ignore this exception
+				// since we're not using thread interrupt mechanism
+				ie.printStackTrace();
+			}
+
+		}
+
+	}
 
 }

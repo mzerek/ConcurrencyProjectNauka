@@ -1,14 +1,19 @@
 package pl.mzerek.threadsNauka.coffeeRestaurant;
 
-public class TEst {
+
+class TEst2{
+	public static void main(String[] args) {
+		System.out.println("TEst2");
+	}
+
+	
+}
+
+
+public class TEst extends TEst2{
 
 	public static void main(String[] args) {
-		int x = 0;
-		
-		
-		x     ++;
-		
-		System.out.println(x);
+		System.out.println("TEst");
 
 	}
 
